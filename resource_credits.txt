@@ -1,0 +1,33 @@
+Credit where credit is due. Here's where different resources come from:
+
+[http://www.small-icons.com/packs/16x16-free-application-icons.htm]
+License:
+"Creative Commons Attribution-Share Alike 3.0"
+
+Files:
+img/*.png
+
+Changes made:
+None
+
+
+[https://notificationsounds.com/message-tones/all-eyes-on-me-465]
+License:
+"Creative Commons 4.0"
+
+Files:
+snd/chat.wav
+
+Changes made:
+None
+
+
+[https://notificationsounds.com/message-tones/youve-been-informed-345]
+License:
+"Creative Commons 4.0"
+
+Files:
+snd/pm.wav
+
+Changes made:
+Shortened from :03 to :02.

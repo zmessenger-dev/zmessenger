@@ -1,0 +1,24 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>img/away.png</file>
+    <file>img/busy.png</file>
+    <file>img/close.png</file>
+    <file>img/channel-adhoc.png</file>
+    <file>img/channel-console.png</file>
+    <file>img/channel-public.png</file>
+    <file>img/context-full-profile.png</file>
+    <file>img/context-interested.png</file>
+    <file>img/context-not-interested.png</file>
+    <file>img/context-pm.png</file>
+    <file>img/dialogs.png</file>
+    <file>img/dnd.png</file>
+    <file>img/looking.png</file>
+    <file>img/offline.png</file>
+    <file>img/online.png</file>
+    <file>img/prefs-global.png</file>
+    <file>img/typing-in-progress.png</file>
+    <file>img/typing-paused.png</file>
+    <file>snd/pm.wav</file>
+    <file>snd/chat.wav</file>
+</qresource>
+</RCC>
